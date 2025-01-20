@@ -8,8 +8,8 @@ This project demonstrates how to integrate Python and Java by:
 3. Performing computations in Java and returning results to Python.
 
 ## Features
-- Python (Driver): Responsible for orchestrating the integration, compiling, and running the Java program.
-- Java (ComplexLogic.java):Computes the sum of GCD and LCM for two numbers received from Python.
+- Python : Responsible for orchestrating the integration, compiling, and running the Java program.
+- Java :Computes the sum of GCD and LCM for two numbers received from Python.
 
 ## Prerequisites
 - Python 3.x
